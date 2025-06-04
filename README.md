@@ -1,6 +1,6 @@
 # GamePro Controllers - Website
 
-Bem-vindo ao repositório do site da GamePro Controllers! Este é um projeto front-end que apresenta uma empresa fictícia especializada em controles de videogame de alta performance. O site foi desenvolvido como parte de um projeto de desenvolvimento web, focado em HTML5 e CSS3, com ênfase em design responsivo e boas práticas de estruturação de conteúdo.
+Bem-vindo ao repositório do site da GamePro Controllers! Este é um projeto front-end que apresenta uma empresa fictícia especializada em controles de videogame de alta performance. O site foi desenvolvido como parte de um projeto de desenvolvimento web, focado em HTML5 e CSS3.
 
 ## ✨ Visualização
 
