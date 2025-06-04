@@ -45,12 +45,12 @@ Para visualizar o projeto em sua máquina local:
     ```
 3.  Abra qualquer um dos arquivos `.html` (por exemplo, `index.html`) diretamente no seu navegador de preferência.
 
-## 👩‍💻 Desenvolvedora
-
-Este projeto foi desenvolvido por:
-
-* **Anny Vitoria Costa**
-
 ## 📝 Contexto do Projeto
 
 Este site foi criado como parte de um projeto acadêmico/avaliação para a disciplina de Front-End, visando aplicar os conhecimentos de HTML e CSS na construção de uma aplicação web estática, responsiva e bem estruturada.
+
+---
+
+<div align="center">
+  <sub>Desenvolvido com ❤️ por Annyyzinha</sub>
+</div>
